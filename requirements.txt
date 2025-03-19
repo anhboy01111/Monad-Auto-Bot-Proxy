@@ -1,0 +1,8 @@
+shareithub
+requests
+colorama
+python-dotenv
+web3
+py-solc-x 
+pyfiglet
+halo
